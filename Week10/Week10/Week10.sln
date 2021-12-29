@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{27D49309-2A68-4EB3-84B2-A8A591985619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIO", "SystemIO\SystemIO.csproj", "{6A24027D-6473-4498-BF82-0263586BA94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D49309-2A68-4EB3-84B2-A8A591985619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D49309-2A68-4EB3-84B2-A8A591985619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D49309-2A68-4EB3-84B2-A8A591985619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D49309-2A68-4EB3-84B2-A8A591985619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A24027D-6473-4498-BF82-0263586BA94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A24027D-6473-4498-BF82-0263586BA94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A24027D-6473-4498-BF82-0263586BA94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A24027D-6473-4498-BF82-0263586BA94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F59F20-6910-4DFC-B5AC-46C4DA6CB4EC}
+	EndGlobalSection
+EndGlobal

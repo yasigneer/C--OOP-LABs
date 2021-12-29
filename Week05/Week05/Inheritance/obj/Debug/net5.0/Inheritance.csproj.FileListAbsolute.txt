@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.exe
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\asecer79\source\repos\Week5\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+C:\Users\asecer79\source\repos\Week5\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

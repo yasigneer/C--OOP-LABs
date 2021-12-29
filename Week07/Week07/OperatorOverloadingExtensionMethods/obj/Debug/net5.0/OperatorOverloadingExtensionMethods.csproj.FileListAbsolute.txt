@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.exe
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.deps.json
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.dll
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\ref\OperatorOverloadingExtensionMethods.dll
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\bin\Debug\net5.0\OperatorOverloadingExtensionMethods.pdb
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.dll
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\ref\OperatorOverloadingExtensionMethods.dll
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.pdb
+C:\Users\asecer79\source\repos\Week07\OperatorOverloadingExtensionMethods\obj\Debug\net5.0\OperatorOverloadingExtensionMethods.genruntimeconfig.cache

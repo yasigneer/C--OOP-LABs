@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.exe
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.deps.json
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.dll
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\ref\GropingMembersAndObjectInitilializer.dll
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\bin\Debug\net5.0\GropingMembersAndObjectInitilializer.pdb
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.dll
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\ref\GropingMembersAndObjectInitilializer.dll
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.pdb
+C:\Users\asecer79\source\repos\Week5\GropingMembersAndObjectInitilializer\obj\Debug\net5.0\GropingMembersAndObjectInitilializer.genruntimeconfig.cache

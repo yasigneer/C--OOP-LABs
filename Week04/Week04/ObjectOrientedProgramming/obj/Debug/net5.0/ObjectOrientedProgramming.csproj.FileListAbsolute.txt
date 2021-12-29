@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.exe
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.deps.json
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ref\ObjectOrientedProgramming.dll
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ref\ObjectOrientedProgramming.dll
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\asecer79\source\repos\Week04\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache

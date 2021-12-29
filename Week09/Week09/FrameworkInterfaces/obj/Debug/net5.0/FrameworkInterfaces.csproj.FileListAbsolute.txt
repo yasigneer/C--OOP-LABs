@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.exe
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.deps.json
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.dll
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\ref\FrameworkInterfaces.dll
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\bin\Debug\net5.0\FrameworkInterfaces.pdb
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.dll
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\ref\FrameworkInterfaces.dll
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.pdb
+C:\Users\asecer79\source\repos\Week09\FrameworkInterfaces\obj\Debug\net5.0\FrameworkInterfaces.genruntimeconfig.cache

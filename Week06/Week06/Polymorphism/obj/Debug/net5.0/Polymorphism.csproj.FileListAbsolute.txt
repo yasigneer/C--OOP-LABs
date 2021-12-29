@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\asecer79\source\repos\Week06\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\Users\asecer79\source\repos\Week06\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

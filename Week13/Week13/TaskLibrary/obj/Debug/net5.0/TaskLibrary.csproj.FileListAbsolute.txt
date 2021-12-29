@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.exe
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.deps.json
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.dll
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\bin\Debug\net5.0\TaskLibrary.pdb
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.dll
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.pdb
+C:\Users\asecer79\source\repos\Week13\TaskLibrary\obj\Debug\net5.0\TaskLibrary.genruntimeconfig.cache

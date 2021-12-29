@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Encapsulation/1.0.0": {
+        "dependencies": {
+          "GropingMembersAndObjectInitilializer": "1.0.0"
+        },
+        "runtime": {
+          "Encapsulation.dll": {}
+        }
+      },
+      "GropingMembersAndObjectInitilializer/1.0.0": {
+        "runtime": {
+          "GropingMembersAndObjectInitilializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GropingMembersAndObjectInitilializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

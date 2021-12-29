@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.exe
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.deps.json
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.dll
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\ref\AsynchronousProgramming.dll
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\bin\Debug\net5.0\AsynchronousProgramming.pdb
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.dll
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\ref\AsynchronousProgramming.dll
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.pdb
+C:\Users\asecer79\source\repos\Week13\AsynchronousProgramming\obj\Debug\net5.0\AsynchronousProgramming.genruntimeconfig.cache

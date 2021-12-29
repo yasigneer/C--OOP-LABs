@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\asecer79\source\repos\Week06\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\asecer79\source\repos\Week06\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache

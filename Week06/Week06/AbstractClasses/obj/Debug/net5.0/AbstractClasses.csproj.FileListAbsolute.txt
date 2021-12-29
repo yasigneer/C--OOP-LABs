@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+C:\Users\asecer79\source\repos\Week06\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache

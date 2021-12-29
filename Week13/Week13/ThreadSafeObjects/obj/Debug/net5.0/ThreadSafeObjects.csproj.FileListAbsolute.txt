@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.exe
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.deps.json
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.dll
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ref\ThreadSafeObjects.dll
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\bin\Debug\net5.0\ThreadSafeObjects.pdb
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.dll
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ref\ThreadSafeObjects.dll
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.pdb
+C:\Users\asecer79\source\repos\Week13\ThreadSafeObjects\obj\Debug\net5.0\ThreadSafeObjects.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.exe
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.deps.json
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.dll
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\ref\SrtuctDataType.dll
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\bin\Debug\net5.0\SrtuctDataType.pdb
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.dll
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\ref\SrtuctDataType.dll
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.pdb
+C:\Users\asecer79\source\repos\Week07\SrtuctDataType\obj\Debug\net5.0\SrtuctDataType.genruntimeconfig.cache

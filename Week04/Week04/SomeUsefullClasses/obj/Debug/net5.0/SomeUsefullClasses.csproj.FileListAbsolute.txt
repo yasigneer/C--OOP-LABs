@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.exe
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.deps.json
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.dll
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\ref\SomeUsefullClasses.dll
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\bin\Debug\net5.0\SomeUsefullClasses.pdb
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.dll
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\ref\SomeUsefullClasses.dll
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.pdb
+C:\Users\asecer79\source\repos\Week04\SomeUsefullClasses\obj\Debug\net5.0\SomeUsefullClasses.genruntimeconfig.cache

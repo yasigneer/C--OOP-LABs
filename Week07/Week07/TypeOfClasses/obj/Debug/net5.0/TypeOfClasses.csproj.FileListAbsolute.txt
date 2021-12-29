@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.exe
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.deps.json
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.dll
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\ref\TypeOfClasses.dll
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\bin\Debug\net5.0\TypeOfClasses.pdb
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.dll
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\ref\TypeOfClasses.dll
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.pdb
+C:\Users\asecer79\source\repos\Week07\TypeOfClasses\obj\Debug\net5.0\TypeOfClasses.genruntimeconfig.cache
