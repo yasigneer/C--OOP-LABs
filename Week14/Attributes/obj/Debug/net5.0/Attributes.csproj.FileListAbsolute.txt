@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.exe
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.deps.json
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.dll
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+C:\Users\asecer79\source\repos\Week14\Attributes\bin\Debug\net5.0\Attributes.pdb
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.dll
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.pdb
+C:\Users\asecer79\source\repos\Week14\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache

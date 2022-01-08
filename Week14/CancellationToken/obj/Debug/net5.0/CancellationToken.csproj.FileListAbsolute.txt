@@ -1,0 +1,16 @@
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.exe
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.deps.json
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.runtimeconfig.json
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.runtimeconfig.dev.json
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.dll
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\ref\CancellationToken.dll
+C:\Users\asecer79\source\repos\Week14\CancellationToken\bin\Debug\net5.0\CancellationToken.pdb
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.csproj.AssemblyReference.cache
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.AssemblyInfoInputs.cache
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.AssemblyInfo.cs
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.csproj.CoreCompileInputs.cache
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.dll
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\ref\CancellationToken.dll
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.pdb
+C:\Users\asecer79\source\repos\Week14\CancellationToken\obj\Debug\net5.0\CancellationToken.genruntimeconfig.cache
